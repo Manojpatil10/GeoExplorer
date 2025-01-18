@@ -1,0 +1,46 @@
+/* Global dark theme background and text color */
+.errorPage {
+  height: 100vh;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  background-color: #121212; /* Dark theme background */
+  color: #ffffff; /* Light text for contrast */
+  font-family: 'Arial', sans-serif;
+}
+
+.content {
+  text-align: center;
+  padding: 20px;
+}
+
+.errorCode {
+  font-size: 8rem;
+  font-weight: bold;
+  margin: 0;
+  color: #ff6b6b; /* Highlight color for the error code */
+}
+
+.errorMessage {
+  font-size: 1.5rem;
+  margin: 10px 0 20px;
+  color: #ffffff;
+}
+
+.goHomeButton {
+  display: inline-block;
+  padding: 10px 20px;
+  font-size: 1rem;
+  font-weight: bold;
+  text-decoration: none;
+  color: #121212;
+  background-color: #ff6b6b;
+  border: none;
+  border-radius: 5px;
+  cursor: pointer;
+  transition: all 0.3s ease;
+}
+
+.goHomeButton:hover {
+  background-color: #ff5252;
+}

@@ -1,0 +1,104 @@
+/* Footer Base Styling */
+.footer {
+  background-color: #222; 
+  color: #fff;
+  padding: 25px 0;
+}
+
+/* Contact Information Styling */
+.contactInfo {
+  margin-bottom: 20px;
+  border-bottom: 1px solid  rgba(255, 255, 255, 0.2);
+}
+
+.sectionTitle {
+  font-size: 22px;
+  margin-bottom: 10px;
+  color: #DB4437;
+}
+
+.contactItem {
+  display: flex;
+  align-items: center;
+  margin-bottom: 15px;
+}
+
+.icon {
+  font-size: 30px;
+  color: #DB4437;
+  margin-right: 10px;
+  transition: color 0.3s ease;
+}
+
+.icon:hover {
+  color: #fff;
+}
+
+.text {
+  font-size: 16px;
+}
+
+.contactTitle {
+  font-weight: 600;
+}
+
+.contactDetails {
+  font-size: 14px;
+  color: #aaa;
+}
+
+/* Footer Menu Styling */
+.footerBottom {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}
+
+.footerBottom h3 {
+  font-size: 22px;
+  margin-bottom: 20px;
+  color: #DB4437; 
+}
+
+.footerBottom ul {
+  list-style: none;
+  padding: 0;
+  display: flex;
+  align-items: center;
+  justify-content: end;
+}
+
+.footerBottom ul li {
+  margin-left: 20px;
+}
+
+.footerBottom ul li a {
+  text-decoration: none;
+  color: #fff;
+  font-size: 16px;
+  transition: color 0.3s ease;
+}
+
+.footerBottom ul li a:hover {
+  color: #DB4437; 
+}
+
+/* Copyright Section Styling */
+.copyrightSection {
+  text-align: center;
+}
+
+.copyrightText {
+  font-size: 14px;
+  color: #bbb;
+}
+
+.link {
+  color: #DB4437; 
+  text-decoration: none;
+  transition: color 0.3s ease;
+}
+
+.link:hover {
+  color: #fff; 
+}

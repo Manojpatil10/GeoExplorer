@@ -1,0 +1,88 @@
+[
+  {
+    "id": 1,
+    "wonder": "Taj Mahal",
+    "description": "A stunning white marble mausoleum built as a symbol of love.",
+    "location": "India",
+    "url": "https://skift.com/wp-content/uploads/2022/06/GettyImages-1208049833-scaled-e1654782377122.jpg"
+  },
+  {
+    "id": 2,
+    "wonder": "Christ the Redeemer",
+    "description": "A colossal statue of Jesus Christ that overlooks Rio de Janeiro.",
+    "location": "Brazil",
+    "url": "https://cdn.britannica.com/54/150754-050-5B93A950/statue-Christ-the-Redeemer-Rio-de-Janeiro.jpg"
+  },
+  {
+    "id": 3,
+    "wonder": "Great Wall of China",
+    "description": "The longest wall in the world, built to protect China's northern border.",
+    "location": "China",
+    "url": "https://cdn.britannica.com/89/179589-138-3EE27C94/Overview-Great-Wall-of-China.jpg?w=800&h=450&c=crop"
+  },
+  {
+    "id": 4,
+    "wonder": "Eiffel Tower",
+    "description": "An iconic iron tower in Paris, France, originally constructed as the entrance arch for the 1889 World's Fair.",
+    "location": "France",
+    "url": "https://static.independent.co.uk/s3fs-public/thumbnails/image/2014/03/25/12/eiffel.jpg"
+  },
+  {
+    "id": 5,
+    "wonder": "Machu Picchu",
+    "description": "An ancient Incan city nestled high in the Andes Mountains.",
+    "location": "Peru",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/eb/Machu_Picchu%2C_Peru.jpg/640px-Machu_Picchu%2C_Peru.jpg"
+  },
+  {
+    "id": 6,
+    "wonder": "Chichen Itza",
+    "description": "A massive Mayan city featuring the iconic El Castillo pyramid.",
+    "location": "Mexico",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/51/Chichen_Itza_3.jpg/1200px-Chichen_Itza_3.jpg"
+  },
+  {
+    "id": 7,
+    "wonder": "The Roman Colosseum",
+    "description": "An ancient amphitheater known for its architectural brilliance and gladiator battles.",
+    "location": "Italy",
+    "url": "https://cdn.britannica.com/36/162636-050-932C5D49/Colosseum-Rome-Italy.jpg"
+  },
+  
+  {
+    "id": 8,
+    "wonder": "Petra",
+    "description": "An archaeological city famous for its rock-cut architecture.",
+    "location": "Jordan",
+    "url": "https://travelsetu.com/apps/uploads/new_destinations_photos/destination/2024/06/29/d2874c2f4aa4d28e752477800ee70b50_1000x1000.jpg"
+  },
+  {
+    "id": 9,
+    "wonder": "Great Pyramid of Giza",
+    "description": "The only remaining wonder of the ancient world, built as a pharaoh's tomb.",
+    "location": "Egypt",
+    "url": "https://cdn-imgix.headout.com/media/images/2c8a175112eecfeba00658f4c82cf17c-AdobeStock-258519703.jpeg?auto=format&w=780&h=384&q=90&fit=crop&ar=16%3A10"
+  },
+  {
+    "id": 10,
+    "wonder": "Victoria Falls",
+    "description": "One of the largest and most spectacular waterfalls in the world.",
+    "location": "Zambia and Zimbabwe",
+    "url": "https://ecpe2k7qe53.exactdn.com/wp-content/uploads/2017/10/IMG_2166.jpg"
+  },
+  {
+    "id": 11,
+    "wonder": "Grand Canyon",
+    "description": "A natural wonder formed over millions of years by the Colorado River.",
+    "location": "United States",
+    "url": "https://i.natgeofe.com/n/8f5fcc6c-09af-431c-8524-7f1a048ef079/grand-canyon-arizona.jpg"
+  },
+  {
+    "id": 12,
+    "wonder": "Alhambra",
+    "description": "A stunning fortress and palace complex in southern Spain, known for its Islamic architecture and intricate details.",
+    "location": "Spain",
+    "url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSWraQykHaP7L8TFjNzqsSErmkdKPV49lA-VA&s"
+  }
+  
+]
